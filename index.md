@@ -12,12 +12,12 @@ layout: home
    <img src="/images/headshot.png" width="40%" />
 </p>
 
-Hi! I'm Emerson Johnston (she/her), a master's student in International Cyber Policy and Security at Stanford University and a [Knight Hennessy Scholar](https://knight-hennessy.stanford.edu/people/emerson-johnston). I study the relationship between the internet and politics, with a particular focus on culturally displaced peoples. Currently, my research uses ethnographic methods, network analysis, and archival research to investgaite how social media affect self-actualization and collective identity formation on- and offline. I'm a regular contributor to the [Stanford International Policy Review](https://fsi.stanford.edu/sipr), where I write about the how digital platforms affect geopolitics and modern warfare. I am always open to collaboration, cold emails, and questions.
+Hi! I'm **Emerson Johnston** *(she/her)*, a master's student in International Cyber Policy and Security at Stanford University and a [Knight Hennessy Scholar](https://knight-hennessy.stanford.edu/people/emerson-johnston). I study the relationship between the internet and identity, with a particular focus on the social media use of culturally displaced peoples. Currently, my research uses ethnographic methods, network analysis, and archival research to investgaite how social media affect self-actualization and collective identity formation on- and offline. I'm a regular contributor to the [Stanford International Policy Review](https://fsi.stanford.edu/sipr), where I write about the how digital platforms affect geopolitics and modern warfare. I am always open to collaboration, cold emails, and questions.
 
-### Current Projects
+### Main Focuses
 
-**\#** One
+**\#** **Self-Actualization and Cultural Identification on Social Media:** I'm interested in investigating how digital platforms contribute to self-discovery, community affinity, and the exploration of various aspects of identity such as heritage, sexuality, and personal beliefs. 
 
-**\#** Two
+**\#** **Influence of Platform Design and Algorithms on Identity:** I'm interested in exploring how the design of social media platforms, their algorithms, and the internet as a whole shape the identity and affinity of users.
 
-**\#** Three
+**\#** **History of the Internet and Early Online Communites:** I am interested in understanding how the internet and social media have developed over time, with a particular focus on early online communities and the lessons they provide for current digital interactions and identity formation.
