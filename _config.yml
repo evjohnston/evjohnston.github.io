@@ -1,16 +1,16 @@
-title: peter forberg
+etitle: emerson johnston
 author:
-  name: peter forberg
-  email: peterforberg@berkeley.edu
+  name: emerson johnston
+  email: evj@stanford.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  sociologist, ethnographer, writer, and programmer
+  digital sociologist and historian
 
 # Build settings
 
-google_analytics: G-9JH6JRSY8W
+google_analytics: -------
 
 remote_theme: jekyll/minima
 
