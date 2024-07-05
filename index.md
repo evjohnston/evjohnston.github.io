@@ -17,5 +17,7 @@ Hi! I'm Emerson Johnston (she/her), a master's student in International Cyber Po
 ### Current Projects
 
 **\#** One
+
 **\#** Two
+
 **\#** Three
