@@ -20,4 +20,4 @@ Hi! I'm **Emerson Johnston** *(she/her)*, a master's student in International Cy
 
 **\#** **Influence of Platform Design and Algorithms on Identity:** I'm interested in exploring how the design of social media platforms, their algorithms, and the internet as a whole shape the identity and affinity of users.
 
-**\#** **History of the Internet and Early Online Communites:** I am interested in understanding how the internet and social media have developed over time, with a particular focus on early online communities and the lessons they provide for current digital interactions and identity formation.
+**\#** **History of the Internet and Early Online Communites:** I'm interested in understanding how the internet and social media have developed over time, with a particular focus on early online communities and the lessons they provide for current digital interactions and identity formation.
