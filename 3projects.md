@@ -1,11 +1,13 @@
 ---
 layout: page
-title: 📚misc
-permalink: /misc/
+title: Projects
+permalink: /projects/
 ---
 
-### Miscellaneous Projects
+### Current Projects
 
 Here are some things that I've made.
 
-**\#** This website.
+### Completed Projects 
+
+Here are some things that I've made.
