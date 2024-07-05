@@ -14,7 +14,7 @@ permalink: /interests/
 
 **\#** **History of the Internet and Early Online Communites:** I'm interested in understanding how the internet and social media have developed over time, with a particular focus on early online communities and the lessons they provide for current digital interactions and identity formation.
 
-Other research fields I'm interested in include quantum social science, digital linguistics, and behavior economics. I'm also deeply fascinated in exploring how pedagogy can integrate internet studies and digital technologies with social sciences.
+Other research fields I'm interested in include quantum social science, digital linguistics, and behavioral economics. I'm also deeply fascinated in exploring how pedagogy can integrate internet studies and digital technologies with the social sciences.
 
 ### Outside of research, my interests include:
 
