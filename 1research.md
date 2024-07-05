@@ -18,6 +18,5 @@ Other research fields I'm interested in include quantum social science, digital 
 
 ### Outside of research, my interests include:
 
-rockclimbing, figure skating, escape rooms, spanish guitar and singing
-
+I like to rock climb and I grew up figure skating. I love escape rooms, board games, and really any group activity that requires you to solve problems. I also play blues guitar and piano, and love to sing with my friends.
 
