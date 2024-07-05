@@ -9,7 +9,7 @@ layout: home
 ---
 
 <p align="center" title="it's me but i am a picture now">
-   <img src="/images/peter.png" width="40%" />
+   <img src="/images/headshot.png" width="40%" />
 </p>
 
 Hello! My name is Peter Forberg. I'm a PhD student in sociology at UC Berkeley. I study technology, political movements, governance, and ethnography. I run the [QAnon Research Network Newsletter](https://qanonresearch.substack.com/) and have published work in the *Journal of Contemporary Ethnography,* *American Behavioral Scientist,* and *Frontiers in Sociology.* I am always open to collaboration, cold emails, and questions.
