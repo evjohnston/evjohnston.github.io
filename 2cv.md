@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 📃cv
+title: CV
 permalink: /images/curriculumvitae.pdf
 ---
