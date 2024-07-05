@@ -8,16 +8,14 @@
 layout: home
 ---
 
-<p align="center" title="it's me but i am a picture now">
+<p align="center" title="Emerson Johnston Headshot">
    <img src="/images/headshot.png" width="40%" />
 </p>
 
-Hello! My name is Peter Forberg. I'm a PhD student in sociology at UC Berkeley. I study technology, political movements, governance, and ethnography. I run the [QAnon Research Network Newsletter](https://qanonresearch.substack.com/) and have published work in the *Journal of Contemporary Ethnography,* *American Behavioral Scientist,* and *Frontiers in Sociology.* I am always open to collaboration, cold emails, and questions.
+Hi! I'm Emerson Johnston (she/her), a master's student in International Cyber Policy and Security at Stanford University and a [Knight Hennessy Scholar](https://knight-hennessy.stanford.edu/people/emerson-johnston). I study the relationship between the internet and politics, with a particular focus on culturally displaced peoples. Currently, my research uses ethnographic methods, network analysis, and archival research to investgaite how social media affect self-actualization and collective identity formation on- and offline. I'm a regular contributor to the [Stanford International Policy Review](https://fsi.stanford.edu/sipr), where I write about the how digital platforms affect geopolitics and modern warfare. I am always open to collaboration, cold emails, and questions.
 
-### website highlights
+### Current Projects
 
-**\#** An [interactive version](https://qquiz.peterforberg.com) of my bachelor's thesis on QAnon identity/community/ideology formation.
-
-**\#** A [network visualization](https://loss.peterforberg.com) website built for my master's thesis centered around loss.
-
-**\#** An [essay](https://peterforberg.com/work/garrys-mod/) on identity and deviance in a dark online role-playing game.
+**\#** One
+**\#** Two
+**\#** Three
