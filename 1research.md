@@ -8,11 +8,11 @@ permalink: /interests/
 
 ### My main research interests include:
 
-**\#** **Self-Actualization and Cultural Identification on Social Media:** I'm interested in investigating how digital platforms facilitate self-discovery, foster community affinity, and enable the exploration of various identity facets, including heritage, sexuality, and personal beliefs.
+- **Self-Actualization and Cultural Identification on Social Media:** How do digital platforms facilitate self-discovery? In what ways do they foster community affinity? How do they support the exploration of identity facets such as heritage, sexuality, and personal beliefs, especially for culturally displaced peoples?
 
-**\#** **Influence of Platform Design and Algorithms on Identity:** I'm interested in exploring the impact of social media platform design, algorithms, and broader internet architectures on shaping user identity and community affiliation.
+- **Influence of Platform Design and Algorithms on Identity:** What impact does the design of social media platforms have on shaping user identity? How do algorithms influence identity formation? How do broader internet architectures affect the sense of community and affiliation?
 
-**\#** **History of the Internet and Early Online Communities:** I'm interested in understanding how the internet and social media have developed over time, with a particular focus on early online communities and the lessons they provide for current digital interactions and identity formation.
+- **History of the Internet and Early Online Communities:** How has the internet and social media transformed over the years? What influence did early online communities have on the internet's growth? What insights can these initial communities offer for today's digital interactions and identity formation, especially for culturally displaced individuals?
 
 Other research fields I'm interested in include quantum social science, digital linguistics, and behavioral economics. I'm also deeply interested in exploring how pedagogy can integrate internet studies and digital technologies with the social sciences.
 
