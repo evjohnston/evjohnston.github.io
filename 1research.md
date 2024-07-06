@@ -8,7 +8,7 @@ permalink: /interests/
 
 ### My main research interests include:
 
-- **Self-Actualization and Cultural Identification on Social Media:** How do digital platforms facilitate self-discovery? In what ways do they foster community affinity? How do they support the exploration of identity facets such as heritage, sexuality, and personal beliefs, especially for culturally displaced peoples?
+- **Self-Actualization and Cultural Identification on Social Media:** How do digital platforms facilitate self-discovery and cultural affinity? How do they support the exploration of identity facets such as heritage, sexuality, and personal beliefs, especially for culturally displaced peoples?
 
 - **Influence of Platform Design and Algorithms on Identity:** What impact does the design of social media platforms have on shaping user identity? How do algorithms influence identity formation? How do broader internet architectures affect the sense of community and affiliation?
 
