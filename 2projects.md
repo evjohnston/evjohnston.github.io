@@ -15,7 +15,7 @@ permalink: /projects/
 - I've also spent the last two quarters conducting a historical analysis of AIDS discourses on Usenet in the early 1980s. This project originated from a media history course I took in Winter 2024 with Drs. Jennifer Burns and Fred Turner. I continued this research in a social networks course I took with Dr. Daniel McFarland in Spring 2024, where I expanded the project's focus to investigate the impact of influential authors on community dynamics and evolution, and I am still working on it now.
 - I've also been working to investigate theoretical models of social interaction, focusing specifically on the application of scientific and technological principles to human behavior.
 
-## Other Ideas
+## Idea Dump
 
 *Here are some questions I've been thinking about, but haven't gotten around to investigating:*
 - How does the fragmentation of social media platforms and the diverse behaviors users exhibit across them affect their self-concept? Does it lead to a fragmented sense of self or does it foster a more nuanced and multifaceted identity?
