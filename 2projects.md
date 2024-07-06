@@ -7,7 +7,7 @@ permalink: /projects/
 ## Current Projects
 
 *Here are some things I'm working on now:*
-- Since Winter 2024, I've been collaborating with the Stanford University Social Media Lab to research social media dynamics, with a particular emphasis on algorithmic behavior and perception. Our goal is to discern how these algorithms affect user engagement and the spread of content.
+- Since Winter 2024, I've been collaborating with the Stanford University Social Media Lab to research social media dynamics, with a particular emphasis on algorithmic behavior and perception. Our goal is to discern how algorithms and the way the disemminate recommended content affect user engagement and the spread of content.
 - I'm also working with a team of researchers from Stanford University and UC Berkeley to investigate methods for improving online discourse. Our goal is to develop strategies that promote constructive dialogue in polarized environments.
 - And, as part of a [Knight-Hennessy Scholars Kheystone Project](https://knight-hennessy.stanford.edu/program-overview/leadership-development/kheystone-projects), I've been working with the Stanford Literary Lab to investigate computational approaches to literary analysis. Our project examines how technology can be used to study identity in English literature.
 
