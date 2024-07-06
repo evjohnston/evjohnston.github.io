@@ -12,7 +12,7 @@ permalink: /projects/
 - And, as part of a [Knight-Hennessy Scholars Kheystone Project](https://knight-hennessy.stanford.edu/program-overview/leadership-development/kheystone-projects), I've been working with the [Stanford Literary Lab](https://litlab.stanford.edu/) to investigate computational approaches to literary analysis. Our project examines how technology can be used to study identity in English literature.
 
 *And independently,*
-- I've also spent the last six months conducting a historical analysis of AIDS discourses on Usenet in the early 1980s. This project originated from a media history course I took in Winter 2024 with Drs. Jennifer Burns and Fred Turner. I continued this research in a social networks course I took with Dr. Daniel McFarland in Spring 2024, where I expanded the project's focus to investigate the impact of influential authors on community dynamics and evolution, and I am still working on it now.
+- I've also spent the last six months conducting a historical analysis of AIDS discourses on Usenet in the early 1980s. I began this project in a media history course in Winter 2024 and expanded it in a Spring 2024 social networks course, where I began to specifically investigate the impact of influential authors on community dynamics and evolution.
 - I've also been working to investigate theoretical models of social interaction, focusing specifically on the application of scientific and technological principles to human behavior.
 
 ## Idea Dump
