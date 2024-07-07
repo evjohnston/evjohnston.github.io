@@ -12,7 +12,7 @@ permalink: /interests/
 
 - **Influence of Platform Design and Algorithms on Identity:** What impact does the design of social media platforms, of algorithms, and of broader internet architectures have on shaping user identity and affiliation? 
 
-- **History of the Internet and Early Online Communities:** How has the internet and social media transformed over the years? What influence did early online communities have on the internet's growth? What insights can these initial communities offer for today's digital interactions and identity formation.
+- **History of the Internet and Early Online Communities:** How has the internet and social media transformed over the years? What influence did early online communities have on the internet's growth? What insights can these initial communities offer for today's digital interactions and identity formation?
 
 Other research fields I'm interested in include quantum social science, digital linguistics, and behavioral economics. I'm also deeply interested in exploring how pedagogy can integrate internet studies and digital technologies with the social sciences.
 
