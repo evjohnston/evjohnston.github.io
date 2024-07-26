@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-## Current Projects
+## Current Projects:
 
 **Here are some collaborative projects I'm working on:**
 - Since Winter 2024, I've been collaborating with the [Stanford University Social Media Lab](https://sml.stanford.edu/) to research algorithmic behavior and perception. Our goal is to discern how algorithms and other content recommendation systems affect user engagement and behavior.
