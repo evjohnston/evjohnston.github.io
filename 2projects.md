@@ -22,4 +22,4 @@ permalink: /projects/
 - How does the fragmentation of social media platforms and the diverse behaviors users exhibit across them affect their self-concept? Does it lead to a fragmented sense of self or does it foster a more nuanced and multifaceted identity?
 - How are social media users' self-concepts impacted by their most frequent form of shared content, particularly in relation to permanent content versus ephemeral content? 
 - How does the rapid propagation of fictitious pop culture phenomena such as [Listenbourg](https://en.wikipedia.org/wiki/Listenbourg), [Goncharov](https://en.wikipedia.org/wiki/Goncharov_(meme)), and [Zepotha](https://en.wikipedia.org/wiki/Zepotha) through social media platforms impact user trust and wellbeing, and what does it suggest about collective action and memory in digital memetic culture?
-- why is the wikipedia page for [internet culture](https://en.wikipedia.org/wiki/Internet_culture) such a mess??
+- Why is the wikipedia page for [internet culture](https://en.wikipedia.org/wiki/Internet_culture) such a mess??
