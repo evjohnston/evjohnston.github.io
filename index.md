@@ -9,7 +9,7 @@ layout: home
 ---
 
 <p align="center" title="Emerson Johnston Headshot">
-   <img src="/images/headshot.png" width="50%" />
+   <img src="/images/headshot.png" width="45%" />
 </p>
 
 Hi! I'm **Emerson Johnston** *(she/her)*, a master's student in International Cyber Policy and Security at Stanford University and a [Knight Hennessy Scholar](https://knight-hennessy.stanford.edu/people/emerson-johnston). I study the relationship between the internet and identity, with a particular focus on the social media use of culturally displaced peoples. 
