@@ -12,11 +12,18 @@ layout: home
    <img src="/images/headshot.png" width="50%" />
 </p>
 
-Hi! I'm **Emerson Johnston** *(she/her)*, a master's student in International Cyber Policy and Security at Stanford University and a [Knight Hennessy Scholar](https://knight-hennessy.stanford.edu/people/emerson-johnston). I study the relationship between the internet and identity, with a particular focus on the social media use of culturally displaced peoples. 
+<p style="text-align: justify;">
+Hi! I'm <strong>Emerson Johnston</strong> <em>(she/her)</em>, a master's student in International Cyber Policy and Security at Stanford University and a <a href="https://knight-hennessy.stanford.edu/people/emerson-johnston">Knight Hennessy Scholar</a>. I study the relationship between the internet and identity, with a particular focus on the social media use of culturally displaced peoples. 
+</p>
 
-Academically, my research combines ethnographic methods, network analysis, and archival research to investigate how social media affect self-actualization. I'm a research assistant for Dr. Amy Zegart and her Technology, Economics, and Governance working group at the Hoover Institution, and  I'm also a regular contributor to the [Stanford International Policy Review](https://fsi.stanford.edu/sipr), where I write about the how digital platforms affect geopolitics and modern warfare. 
+<p style="text-align: justify;">
+Academically, my research combines ethnographic methods, network analysis, and archival research to investigate how social media affect self-actualization. I'm a research assistant for Dr. Amy Zegart and her Technology, Economics, and Governance working group at the Hoover Institution, and I'm also a regular contributor to the <a href="https://fsi.stanford.edu/sipr">Stanford International Policy Review</a>, where I write about how digital platforms affect geopolitics and modern warfare.
+</p>
 
-Professionally, I'm a YGP contributor at the [Atlantic Council's Cyber Statecraft Initiative](https://dfrlab.org/policy/cyber-statecraft-initiative/), where I support projects related to cyber crime, cyber strategy, and information and communications technologies, as well as expand on my own research. Prior to that, my experience spans roles in the U.S. government, the U.S. military, and in private sector cyber security. 
+<p style="text-align: justify;">
+Professionally, I'm a YGP contributor at the <a href="https://dfrlab.org/policy/cyber-statecraft-initiative/">Atlantic Council's Cyber Statecraft Initiative</a>, where I support projects related to cyber crime, cyber strategy, and information and communications technologies, as well as expand on my own research. Prior to that, my experience spans roles in the U.S. government, the U.S. military, and in private sector cyber security.
+</p>
 
+<p style="text-align: justify;">
 I am always open to collaboration, cold emails, and questions.
-
+</p>
