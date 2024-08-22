@@ -4,6 +4,4 @@ title: resume
 permalink: /cv/
 ---
 
-## Interests
-
-asfdasdf
+## Curriculum Vitae
