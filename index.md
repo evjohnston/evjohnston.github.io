@@ -28,6 +28,6 @@ Professionally, I'm a YGP contributor at the <a href="https://dfrlab.org/policy/
 I am always open to collaboration, cold emails, and questions.
 </p>
 
-<h4>And while you're here...</h4>   
+<h3>And while you're here...</h3>   
 <p> <strong>#</strong> Check out <a href="https://usenet.evjohnston.com/index.html">an interactive version</a> of my ongoing masters thesis work </p>
 <p> <strong>#</strong> Find out which subatomic particle you are with this <a href="http://particlepersona.evjohnston.com/">cute persona quiz</a> I made </p>
