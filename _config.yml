@@ -27,11 +27,10 @@ minima:
   social_links:
 
       - { platform: github,         user_url: "https://github.com/evjohnston" }
+      - { platform: bluesky,        user_url: "https://bsky.app/profile/idenarch.bsky.social" } 
       - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=kd2As4kAAAAJ&hl=en" }
       - { platform: linkedin,       user_url: "https://www.linkedin.com/in/evjofficial" }
       - { platform: mastodon,       user_url: "https://mastodon.social/@idenarch" }
-      - { platform: twitter,        user_url: "https://x.com/idenarch" }
-  #   - ( platform: bluesky,        user_url: "https://bsky.app/profile/idenarch.bsky.social" } 
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
