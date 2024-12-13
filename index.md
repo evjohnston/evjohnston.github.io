@@ -21,7 +21,7 @@ Academically, my research combines ethnographic methods, network analysis, and a
 </p>
 
 <p style="text-align: justify;">
-Professionally, I'm a YGP contributor at the <a href="https://dfrlab.org/policy/cyber-statecraft-initiative/">Atlantic Council's Cyber Statecraft Initiative</a>, where I support projects related to cyber crime, cyber strategy, and information and communications technologies, as well as expand on my own research. Prior to that, my experience spans roles in the U.S. government, the U.S. military, and in private sector cyber security.
+Professionally, I'm a research consultant at the <a href="https://dfrlab.org/policy/cyber-statecraft-initiative/">Atlantic Council's Cyber Statecraft Initiative</a>, where I support projects related to cyber crime, cyber strategy, and information and communications technologies, as well as expand on my own research. Prior to that, my experience spans roles in the U.S. government, the U.S. military, and in private sector cyber security.
 </p>
 
 <p style="text-align: justify;">
@@ -33,4 +33,4 @@ I am always open to collaboration, cold emails, and questions.
 <p> <strong>#</strong> Check out <a href="https://usenet.evjohnston.com/index.html">an interactive version</a> of my ongoing masters thesis work </p>
 -->
 <p> <strong>#</strong> Find out which subatomic particle you are with this <a href="http://particlepersona.evjohnston.com/">cute persona quiz</a> I made </p>
-<p> <strong>#</strong> Check out and follow <a href="https://bsky.app/profile/idenarch.bsky.social/feed/feed-internet-culture">the custom feed I run on BlueSky</a> that tracks developments and discussions on internet cultures, subcultures, and countercultures </p>
+<p> <strong>#</strong> Check out and follow <a href="https://bsky.app/profile/idenarch.bsky.social/feed/internetculture">the custom feed I run on BlueSky</a> that tracks developments and discussions on internet cultures, subcultures, and countercultures </p>
