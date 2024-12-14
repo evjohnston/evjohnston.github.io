@@ -37,4 +37,4 @@ I am always open to collaboration, cold emails, and questions.
 <p><strong>And for a laugh...</strong></p>   
 
 <p> <strong>#</strong> Find out which subatomic particle you are with this <a href="http://particlepersona.evjohnston.com/">cute persona quiz</a> I made </p>
-<p> <strong>#</strong> Watch my <a href="https://www.youtube.com/watch?v=nwY5JI-0pmo&list=PPSV">2024 N.O.B.E.L. (not official but exceedingly ludacris) conference presentation</a> about the birth lottery and overlooked factors in academic success</p>
+<p> <strong>#</strong> Watch my <a href="https://www.youtube.com/watch?v=nwY5JI-0pmo&list=PPSV">2024 N.O.B.E.L. (not official but exceedingly ludacris) theories night presentation</a> about the birth lottery and overlooked factors in academic success</p>
