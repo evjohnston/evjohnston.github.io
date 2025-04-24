@@ -339,3 +339,17 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+.nav-items {
+  display: none;
+}
+
+.nav-trigger:checked ~ .nav-items {
+  display: block;
+}
+
+.menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.5em;
+}
