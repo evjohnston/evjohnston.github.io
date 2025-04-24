@@ -4,7 +4,7 @@ title: interests
 permalink: /interests/
 ---
 
-## Research Interests
+## Interests
 
 **My main research interests include:**
 
