@@ -25,7 +25,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
+  skin: classic
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
@@ -55,14 +55,14 @@ social_links:
     icon: github
     url: "https://github.com/evjohnston"
   - title: Bluesky – idenarch
-    icon: cloud
+    icon: github
     url: "https://bsky.app/profile/idenarch.bsky.social"
   - title: Google Scholar – evjohnston
-    icon: graduation-cap
+    icon: github
     url: "https://scholar.google.com/citations?user=kd2As4kAAAAJ&hl=en"
   - title: LinkedIn – evjofficial
-    icon: linkedin
+    icon: github
     url: "https://www.linkedin.com/in/evjofficial"
   - title: Mastodon – idenarch
-    icon: mastodon
+    icon: github
     url: "https://mastodon.social/@idenarch"
