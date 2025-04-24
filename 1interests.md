@@ -4,19 +4,23 @@ title: interests
 permalink: /interests/
 ---
 
-## Interests
+## Research Interests
 
 **My main research interests include:**
 
-- **Self-Actualization and Cultural Identification on Social Media:** How do digital platforms facilitate self-discovery and cultural affinity? How do they support the exploration of identity facets such as heritage, sexuality, and personal beliefs, especially for culturally displaced peoples?
 
-- **Influence of Platform Design and Algorithms on Identity:** What impact does the design of social media platforms, of algorithms, and of broader internet architectures have on shaping user identity and affiliation? 
+- **Digital Identity and Self-Actualization**  
+  How do digital platforms facilitate or constrain identity development? In what ways do online spaces shape the exploration of heritage, belief, or belonging—particularly for individuals who are culturally displaced, diasporic, or otherwise navigating fragmented social contexts?
 
-- **History of the Internet and Early Online Communities:** How has the internet and social media transformed over the years? What influence did early online communities have on the internet's growth? What insights can these initial communities offer for today's digital interactions and identity formation?
+- **Platform Design, Algorithms, and Affiliation**  
+  How do the structural features of social media—such as recommendation systems, content moderation protocols, and interface logic—shape patterns of identity expression and collective affiliation? What forms of social behavior are rendered legible, amplified, or suppressed by algorithmic design?
 
-Other research fields I'm interested in include quantum social science, digital linguistics, and behavioral economics. I'm also deeply interested in exploring how pedagogy can integrate internet studies and digital technologies with the social sciences.
+- **Histories of the Internet and Early Online Communities**  
+  What can the communicative practices of early internet communities—such as Usenet forums or bulletin board systems—reveal about the evolution of digital identity? How did the technical architectures of early networks influence the way users engaged with health, crisis, or solidarity communication?
+
+- **Histories of Emerging Technologies and Adoption Patterns**  
+  What social, political, and institutional factors shape the adoption trajectories of emerging technologies? How do historical cases of adoption, resistance, or repurposing inform our understanding of contemporary tech deployment? What lessons can be drawn from past transitions in communication and computation infrastructures?
 
 **Outside of research,** 
 
-I like to rock climb and I grew up figure skating. I love escape rooms, board games, and really any group activity that requires you to solve problems. I also play blues guitar and piano, and love to sing with my friends.
-
+Outside of research, I love physical problem-solving—rock climbing, escape rooms, and games that demand strategy and teamwork. I grew up figure skating, and I still spend as much time as I can on the ice. I also play blues guitar and piano, and I sing whenever I get the chance.
