@@ -55,14 +55,14 @@ minima:
     icon: github
     url: "https://github.com/evjohnston"
   - title: Bluesky – idenarch
-    icon: github
+    icon: bluesky
     url: "https://bsky.app/profile/idenarch.bsky.social"
   - title: Google Scholar – evjohnston
-    icon: github
+    icon: google-scholar
     url: "https://scholar.google.com/citations?user=kd2As4kAAAAJ&hl=en"
   - title: LinkedIn – evjofficial
-    icon: github
+    icon: linkedin-in
     url: "https://www.linkedin.com/in/evjofficial"
   - title: Mastodon – idenarch
-    icon: github
+    icon: mastodon
     url: "https://mastodon.social/@idenarch"
