@@ -14,7 +14,7 @@ permalink: /projects/
 
 **Independent and Lead-Author Work**
 
-- I am in the final stages of writing for my piece, *"When Regulation Backfires: Cultural Infrastructure and the Mass Migration from TikTok to RedNote"*. This case study analyzes how the 2025 U.S. TikTok ban catalyzed a mass user migration to RedNote (Xiaohongshu), revealing overlooked policy gaps and unintended cultural consequences. Drawing on congressional records, platform analytics, and user interviews, the study critiques dominant security-based governance frameworks and argues for a model of digital policy that acknowledges platforms as cultural infrastructure. [Working Paper | Word Count: 11,155]
+- I am in the final stages of writing for my piece, *"When Regulation Backfires: Cultural Infrastructure and the Mass Migration from TikTok to RedNote"*. This case study analyzes how the 2025 U.S. TikTok ban catalyzed a mass user migration to RedNote (Xiaohongshu), revealing overlooked policy gaps and unintended cultural consequences. Drawing on congressional records, platform analytics, and user interviews, the study critiques dominant security-based governance frameworks and argues for a model of digital policy that acknowledges platforms as cultural infrastructure. 
 
 -  I'm also developing a qualitative study that explores how users navigate and differentiate between ephemeral and fixed content (e.g., Stories vs. Posts), and how these practices reflect or shape their self-concept over time. Data is being collected through semi-structured interviews with a diverse sample of adult social media users, and will be analyzed using thematic analysis.  
 
