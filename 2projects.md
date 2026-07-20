@@ -8,39 +8,34 @@ permalink: /projects/
 
 **Collaborative Research Initiatives**
 
-- Since January 2026, I've been working with a team of researchers out of Georgetown to develop tools that help public institutions communicate more effectively during elections, public health crises, and emergencies. Our hope is to build infrastructure that supports both researchers studying information integrity and officials working to combat misinformation in critical moments.
+- Since January 2026, I have been part of a Georgetown-based research team developing tools to help public institutions communicate more effectively during elections, public health crises, and other emergencies. The aim is a shared infrastructure that serves two constituencies at once, first researchers studying information integrity, and second, the officials who must counter misinformation under acute time pressure.
 
 **Ongoing Independent Projects**
 
-- My most recent project examines how platforms shifted from building age-appropriate environments to funneling children into age-agnostic social media where they're subject to the same metrics of virality, performance, and data extraction as adults. I, like many people my age, grew up on Club Penguin, Wizards 101, Fantage, and other online games, and I'm interested in why these child-specific digital spaces seem to have essentially disappeared, so I'm really just trying to get a better understanding of "why". This also gives me an excuse to find weird back up versions of all my favorite childhood games which has been a fun way to spend my breaks. 
+- My most recent project traces how platforms abandoned age-appropriate design in favor of routing children into age-agnostic social media, where minors are subject to the same logics of virality, performance, and data extraction that govern adult users. I grew up, as many in my cohort did, on Club Penguin, Wizard101, and Fantage, and the disappearance of these child-specific digital spaces is the puzzle the project sets out to explain. The work is genuinely a search for the "why," and it has the side benefit of sending me hunting for archived and fan-run revivals of the games I played as a kid, which has turned out to be a good way to spend a break.
 
-- I'm also developing a qualitative study that explores how recommendation algorithms' inability to distinguish between identity-based engagement and allyship-based engagement fundamentally reshapes the boundaries of digital community spaces, particularly for Black creators and LGBTQ+ communities. I argue that this sort of algorithmic illegibility (I dont yet know what to call it) transforms intimiate community spaces into sites of external scrutiny as content created for in-group consumption gets pushes to audiences who were never its intended recipients. This project also considers the affective and creative labor involved when creators much constantly calibrate content for multiple audiences. 
+- I am also developing a qualitative study of how recommendation algorithms fail to distinguish identity-based engagement from allyship-based engagement, and how that failure reshapes the boundaries of digital community spaces, particularly for Black creators and LGBTQ+ communities. I argue that this algorithmic illegibility—I am still settling on the term—converts intimate community spaces into sites of external scrutiny, as content produced for in-group audiences is surfaced to viewers it was never meant to reach. The study also attends to the affective and creative labor that creators expend when they must continually calibrate a single piece of content for several audiences at once.
 
-- On the more passion project side of things, I've been recently conducting a historical analysis of the now-defunct platform Pinboard, a bookmarking platform launched in 2009 wherein the platforms creator, Maciej Cagłowski, created a public Google Doc inviting users to collaboratively shape the platforms development in real time. It's a really interesting case study in user-led platform design and I'm particularly interested in understanding why this case remained expectional rather than influential. 
-
-- Though no longer ongoing, I spent much of my first master's degree conducting a mixed-methods historical analysis of AIDS discourses on Usenet in the early 1980s. I began this project in a media history course in Winter 2024 and expanded it in a Spring 2024 social networks course, where I began to specifically investigate the impact of influential authors on community dynamics and evolution. This project evolved to examine the role of decentralized communication infrastructures in shaping community knowledge and health practices during a crisis and has since been presented at the American Sociological Associations annual conference. 
-  - Through this, I built a publicly available [metadata scraping script](https://github.com/evjohnston/usenetscraping_public) for researchers working with the GoogleGroups Usenet archive.
+- On the passion-project side, I have been conducting a historical analysis of Pinboard, the bookmarking service launched in 2009. Its founder, Maciej Cegłowski, maintained a public Google Doc that invited users to shape the platform's development in real time. The case offers an unusually clear instance of user-led platform design, and my interest lies less in documenting it than in explaining why it remained exceptional rather than becoming a model others followed.
 
 ## Idea Dump
 
-*Unrefined concepts I'm actively sketching out/toying with that very well may have already been written about but I haven't gotten the chance yet to read:*
+*Unrefined concepts I am actively sketching out. Several may already be well-covered in literature I have not yet had the chance to read.*
 
-### More digital sociology flavored
+### More digital-sociology flavored
 
-- How does the rapid spread of fictitious media (e.g., Listenbourg, Goncharov, Zepotha) affect user trust, collective memory, and the construction of cultural legitimacy in digital environments?
+- How does the rapid circulation of fictitious media (Listenbourg, Goncharov, Zepotha) affect user trust, collective memory, and the construction of cultural legitimacy in digital environments?
 
-- Is the internet still best understood through Oldenburg’s “third place” or Habermas’s “public sphere”—or are new conceptual models needed to account for the algorithmic fragmentation of communal interaction?
+- Is the internet still best understood through Oldenburg's "third place" or Habermas's "public sphere," or does the algorithmic fragmentation of communal interaction call for new conceptual models?
 
-- What structural and economic conditions led to the collapse of child-specific digital environments, and how have platform business models systematically deprioritized children as a distinct public with developmental needs?
+- What structural and economic conditions produced the collapse of child-specific digital environments, and how have platform business models systematically deprioritized children as a public with distinct developmental needs?
 
-### More HCI/Psychology Flavored
+### More HCI/psychology flavored
 
-- In what ways do users' approaches to algorithm management (positive versus negative feedback) reflect broader orientations toward control, agency, and self-determination in intimate life, and how are these orientations distributed across lines of gender, class, and educational attainment?
+- In what ways do users' strategies for managing algorithms (positive versus negative feedback) reflect broader orientations toward control, agency, and self-determination in intimate life, and how are those orientations distributed across gender, class, and educational attainment?
 
-- How does intentional algorithmic (again through positive or negative signals) reshape users' folk theories about platform function, and does perceived algorithmic legibility correlate with increased or decreased emotional investment in outcomes?
+- How does deliberate algorithmic training, through positive or negative signals, reshape users' folk theories of platform function, and does perceived algorithmic legibility correlate with greater or lesser emotional investment in outcomes?
 
-- When users anthropomorphize algorithms as entities with moods, preferences, or punitive intentions, does this framing enable tactical resistance and collective knowledge-sharing, or does it naturalize platform power by displacing institutional accountability onto imagined technical agents?
+- When users anthropomorphize algorithms as entities with moods, preferences, or punitive intentions, does that framing enable tactical resistance and collective knowledge-sharing, or does it naturalize platform power by displacing institutional accountability onto imagined technical agents?
 
-- What are the affective and temporal costs of algorithmic hygiene practices, and do users who invest heavily in training their feeds experience this labor as empowering curation or as exhausting maintenance work?
-
-
+- What are the affective and temporal costs of algorithmic hygiene practices, and do users who invest heavily in training their feeds experience that labor as empowering curation or as exhausting maintenance?
