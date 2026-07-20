@@ -35,7 +35,7 @@ minima:
     - 1publications.md
     - 2projects.md
     - 3interests.md
-    - 4publications.md
+    - 4presentations.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
