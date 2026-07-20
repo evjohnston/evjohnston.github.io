@@ -40,6 +40,8 @@ permalink: /pubs/
 
 ## In the Press
 
+- *DigiTimes*, “US Chases AI Talent Abroad as China Strengthens Its Homegrown Pipeline,” July 13, 2026. [Read article](https://www.digitimes.com/news/a20260713VL201/talent-deepseek-2025-2026-data.html)
+
 - *Wall Street Journal*, “How China Is Girding for an AI Battle With the U.S.,” July 28, 2025. [Read article](https://www.wsj.com/tech/ai/how-china-is-girding-for-an-ai-battle-with-the-u-s-5b23af51?st=ZekNp)
 
 - *Bloomberg Opinion*, “Can China Compete in the AI Talent War?” July 9, 2025. [Read article](https://www.bloomberg.com/opinion/articles/2025-07-09/can-china-compete-with-the-us-in-the-ai-talent-war)
